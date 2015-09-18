@@ -1,12 +1,14 @@
 @charset "utf-8";
-body {
-	background-image: url("chicago.jpg")
-}
+<body style="background-image:url(Chicago2.jpeg)">
 
 a{color:0x0000FF !important;}
 a:hover{color:0xFF3300 !important;}
 a:visited{color:0xFFCCCC !important;}
 
+body {
+background-image: url("chicago.jpeg");
+
+}
 .navbar
 {
 	float:left;
