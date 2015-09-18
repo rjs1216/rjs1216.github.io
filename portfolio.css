@@ -6,8 +6,11 @@ a:hover{color:0xFF3300 !important;}
 a:visited{color:0xFFCCCC !important;}
 
 body {
-background-image: url("chicago.jpeg");
-
+background-image: url("Chicago3.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+color : white;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .navbar
 {
@@ -15,6 +18,7 @@ background-image: url("chicago.jpeg");
 	padding:5px;
 	margin-top:20px;
 	display:block;
+	color: aqua;
 }
 
 .clearfix
